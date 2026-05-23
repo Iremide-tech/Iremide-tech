@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Iremide-tech
 - 👀 I’m interested in ... React.js
-- 🌱 I’m currently learning ... React.js
-- 💞️ I’m looking to collaborate on ... My new website
+- 🌱 I’m currently learning ... Next.js
 - 📫 How to reach me ... iresamuel226@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... still a beginner 
