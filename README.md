@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning ... Next.js
 - 📫 How to reach me ... iresamuel226@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ... still a beginner 
+- ⚡ Fun fact: ... still a beginner
+- Mindlab Founder
 
 <!---
 Iremide-tech/Iremide-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
